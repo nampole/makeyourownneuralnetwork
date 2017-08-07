@@ -1,7 +1,11 @@
                     GNU GENERAL PUBLIC LICENSE
                        Version 2, June 1991
 
+<<<<<<< HEAD
  Copyright (C) 1989, 1991 Free Software Foundation, Inc., <https://fsf.org/>
+=======
+ Copyright (C) 1989, 1991 Free Software Foundation, Inc., <http://fsf.org/>
+>>>>>>> d1dfaa3 (init code upload)
  51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA
  Everyone is permitted to copy and distribute verbatim copies
  of this license document, but changing it is not allowed.

@@ -1,8 +1,11 @@
+<<<<<<< HEAD
 # makeyourownneuralnetwork
 Code for the [Make Your Own Neural Network book](https://www.amazon.com/Make-Your-Own-Neural-Network/dp/1530826608/r)
 
 blog: https://makeyourownneuralnetwork.blogspot.com/
 
+=======
+>>>>>>> d1dfaa3 (init code upload)
 # 신경망 첫걸음 Python Code
 
 책 "신경망 첫걸음"의 Python Code입니다.
@@ -27,4 +30,8 @@ blog: https://makeyourownneuralnetwork.blogspot.com/
 - 정답 비율 출력
 - 0에 대한 Network backwards 이미지 출력
 
+<<<<<<< HEAD
 performance =  0.9766 total 10000
+=======
+performance =  0.9766 total 10000
+>>>>>>> d1dfaa3 (init code upload)
