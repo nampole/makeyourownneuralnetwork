@@ -5,7 +5,7 @@ from scipy import ndimage
 import matplotlib.pyplot as plt
 
 
-# 1. 감마 함수 (Gamma function) 예시
+# 1. 감마 함수 (Gamma function) 예시 ~~
 # gamma(x) = (x-1)! (정수 x > 0)
 print(f"gamma(5) = {gamma(5)}") # 4! = 24
 print(f"gamma(0.5) = {np.sqrt(np.pi)}") # sqrt(pi)
