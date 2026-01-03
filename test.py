@@ -1,4 +1,4 @@
-# 필요한 함수 임포트 ~
+# 필요한 함수 임포트 ~ air 에서 커밋
 from scipy.special import gamma, erf, beta 
 import numpy as np
 
