@@ -77,6 +77,7 @@ class neuralNetwork:
         print(final_outputs)
         print("신경망 query 끝")
         return final_outputs
+    print("신경망 train 끝")
     
 # 신경망 클래스 끝
 
